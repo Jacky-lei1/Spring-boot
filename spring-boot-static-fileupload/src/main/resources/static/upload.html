@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>文件上传</title>
+</head>
+<body>
+<!--enctype="multipart/form-data":表示在表单提交时对文件进行二进制编码-->
+    <form action="fileUploadController" method="post" enctype="multipart/form-data">
+        上传文件:<input type="file" name="filename"/><br/>
+        <input type="submit"/>
+    </form>
+</body>
+</html>

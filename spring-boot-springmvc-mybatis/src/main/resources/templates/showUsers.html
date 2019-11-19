@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>展示所有用户</title>
+</head>
+<body>
+    <table border="1" >
+        <tr>
+            <th>用户ID</th>
+            <th>用户年龄</th>
+            <th>用户姓名</th>
+            <th>操作</th>
+        </tr>
+        <tr th:each="u : ${list}">
+            <th th:text="${u.userid}"></th>
+            <th th:text="${u.userage}"></th>
+            <th th:text="${u.username}"></th>
+            <th>
+                <a th:href="@{/users/findUserById(id=${u.userid})}">更新用户</a>
+                <a th:href="@{/users/deleteUser(id=${u.userid})}">删除用户</a>
+            </th>
+        </tr>
+    </table>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-boot.iml" filepath="$PROJECT_DIR$/Spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-filter/spring-boot-filter.iml" filepath="$PROJECT_DIR$/spring-boot-filter/spring-boot-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hello/spring-boot-hello.iml" filepath="$PROJECT_DIR$/spring-boot-hello/spring-boot-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-listener/spring-boot-listener.iml" filepath="$PROJECT_DIR$/spring-boot-listener/spring-boot-listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-springmvc-mybatis/spring-boot-springmvc-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-springmvc-mybatis/spring-boot-springmvc-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-static-fileupload/spring-boot-static-fileupload.iml" filepath="$PROJECT_DIR$/spring-boot-static-fileupload/spring-boot-static-fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-static-resource2/spring-boot-static-resource2.iml" filepath="$PROJECT_DIR$/spring-boot-static-resource2/spring-boot-static-resource2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-static-resources1/spring-boot-static-resources1.iml" filepath="$PROJECT_DIR$/spring-boot-static-resources1/spring-boot-static-resources1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-view-freemarker/spring-boot-view-freemarker.iml" filepath="$PROJECT_DIR$/spring-boot-view-freemarker/spring-boot-view-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-view-jsp/spring-boot-view-jsp.iml" filepath="$PROJECT_DIR$/spring-boot-view-jsp/spring-boot-view-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-view-thymeleaf/spring-boot-view-thymeleaf.iml" filepath="$PROJECT_DIR$/spring-boot-view-thymeleaf/spring-boot-view-thymeleaf.iml" />
+    </modules>
+  </component>
+</project>

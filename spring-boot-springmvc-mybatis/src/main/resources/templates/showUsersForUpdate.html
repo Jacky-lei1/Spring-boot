@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>更新准备页面</title>
+</head>
+<body>
+<!--th:field:表示数据的回显，区别于th:value="***"这个仅是在文本框中填充当前内容，而不是请求后得到的内容-->
+    <form th:action="@{/users/updateUser}" method="post">
+        <input type="hidden" name="id" th:field="${user.userid}"/>
+        用户姓名:<input type="text" name="username" th:field="${user.username}"/><br/>
+        用户年龄:<input type="text" name="userage" th:field="${user.userage}"/><br/>
+        <input type="submit" value="提交" >
+    </form>
+</body>
+</html>

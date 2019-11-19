@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Thymeleaf中的超链接</title>
+</head>
+<body>
+    <!--绝对路径-->
+    <a href="http://www.baidu.com">绝对路径(普通方式)</a><br/>
+    <hr/>
+    <a th:href="@{http://www.baidu.com}">绝对路径(Thymeleaf方式)</a><br/>
+    <hr/>
+    <!--相对路径(相对于项目上下文的相对路径)-->
+    <a th:href="@{/show2}">相对路径</a><br/>
+    <hr/>
+    <!--相对于服务器路径的根，在同一个Tomcat中访问另一个项目-->
+    <a th:href="@{~/project2/resourcename}">相对于服务器的根</a><br/>
+    <hr/>
+    <!--相对路径传参-->
+    <!--http://localhost:8080/show2?id=1&name=zhangsan-->
+    <a th:href="@{/show2(id=1,name=zhangsan)}">相对路径传参</a>
+    <hr/>
+    <!--相对路径传参-restful风格-->
+    <!--http://localhost:8080/path/1/show2?name=zhangsan-->
+    <a th:href="@{/path/{id}/show2(id=1,name=zhangsan)}">相对路径传参-restful风格</a>
+</body>
+</html>

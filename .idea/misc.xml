@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-boot-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-listener/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-static-resources1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-static-resource2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-static-fileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-view-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-view-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-view-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-springmvc-mybatis/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
