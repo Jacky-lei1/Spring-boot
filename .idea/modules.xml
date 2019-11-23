@@ -3,16 +3,32 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring-boot.iml" filepath="$PROJECT_DIR$/Spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-cache/redis-cache.iml" filepath="$PROJECT_DIR$/redis-cache/redis-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-config/spring-boot-config.iml" filepath="$PROJECT_DIR$/spring-boot-config/spring-boot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-devtools/spring-boot-devtools.iml" filepath="$PROJECT_DIR$/spring-boot-devtools/spring-boot-devtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-devtools2/spring-boot-devtools2.iml" filepath="$PROJECT_DIR$/spring-boot-devtools2/spring-boot-devtools2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-ehcache/spring-boot-ehcache.iml" filepath="$PROJECT_DIR$/spring-boot-ehcache/spring-boot-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-exception1/spring-boot-exception1.iml" filepath="$PROJECT_DIR$/spring-boot-exception1/spring-boot-exception1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-exception2/spring-boot-exception2.iml" filepath="$PROJECT_DIR$/spring-boot-exception2/spring-boot-exception2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-exception3/spring-boot-exception3.iml" filepath="$PROJECT_DIR$/spring-boot-exception3/spring-boot-exception3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-exception4/spring-boot-exception4.iml" filepath="$PROJECT_DIR$/spring-boot-exception4/spring-boot-exception4.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-filter/spring-boot-filter.iml" filepath="$PROJECT_DIR$/spring-boot-filter/spring-boot-filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-hello/spring-boot-hello.iml" filepath="$PROJECT_DIR$/spring-boot-hello/spring-boot-hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-listener/spring-boot-listener.iml" filepath="$PROJECT_DIR$/spring-boot-listener/spring-boot-listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" filepath="$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-springloader/spring-boot-springloader.iml" filepath="$PROJECT_DIR$/spring-boot-springloader/spring-boot-springloader.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-springmvc-mybatis/spring-boot-springmvc-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-springmvc-mybatis/spring-boot-springmvc-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-static-fileupload/spring-boot-static-fileupload.iml" filepath="$PROJECT_DIR$/spring-boot-static-fileupload/spring-boot-static-fileupload.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-static-resource2/spring-boot-static-resource2.iml" filepath="$PROJECT_DIR$/spring-boot-static-resource2/spring-boot-static-resource2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-static-resources1/spring-boot-static-resources1.iml" filepath="$PROJECT_DIR$/spring-boot-static-resources1/spring-boot-static-resources1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-text/spring-boot-text.iml" filepath="$PROJECT_DIR$/spring-boot-text/spring-boot-text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-validate/spring-boot-validate.iml" filepath="$PROJECT_DIR$/spring-boot-validate/spring-boot-validate.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-view-freemarker/spring-boot-view-freemarker.iml" filepath="$PROJECT_DIR$/spring-boot-view-freemarker/spring-boot-view-freemarker.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-view-jsp/spring-boot-view-jsp.iml" filepath="$PROJECT_DIR$/spring-boot-view-jsp/spring-boot-view-jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-view-thymeleaf/spring-boot-view-thymeleaf.iml" filepath="$PROJECT_DIR$/spring-boot-view-thymeleaf/spring-boot-view-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srping-boot-jpa/srping-boot-jpa.iml" filepath="$PROJECT_DIR$/srping-boot-jpa/srping-boot-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger-demo/swagger-demo.iml" filepath="$PROJECT_DIR$/swagger-demo/swagger-demo.iml" />
     </modules>
   </component>
 </project>

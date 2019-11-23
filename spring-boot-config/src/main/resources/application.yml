@@ -1,0 +1,20 @@
+##在yaml中配置
+#server:
+#  port: 8081
+#
+#person:
+#  last-name: 张三
+#  age: 18
+#  boss: false
+#  birth: 2019/11/23
+#  map: {k1: v1,k2: v2}
+#  lists:
+#    - 腰围
+#    - 胸围
+#    - 臀围
+#  dog:
+#    name: 狗强
+#    age: 18
+#
+#
+#

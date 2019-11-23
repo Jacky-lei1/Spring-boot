@@ -13,6 +13,22 @@
         <option value="$PROJECT_DIR$/spring-boot-view-freemarker/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-view-thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-springmvc-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-validate/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-exception1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-exception3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-exception2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-exception4/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-text/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-springloader/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-devtools/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-devtools2/pom.xml" />
+        <option value="$PROJECT_DIR$/srping-boot-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-ehcache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/swagger-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-config/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,43 +6,91 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="redis-cache" />
+        <module name="spring-boot-config" />
+        <module name="spring-boot-devtools" />
+        <module name="spring-boot-devtools2" />
+        <module name="spring-boot-ehcache" />
+        <module name="spring-boot-exception1" />
+        <module name="spring-boot-exception2" />
+        <module name="spring-boot-exception3" />
+        <module name="spring-boot-exception4" />
         <module name="spring-boot-filter" />
         <module name="spring-boot-hello" />
         <module name="spring-boot-listener" />
+        <module name="spring-boot-redis" />
+        <module name="spring-boot-springloader" />
         <module name="spring-boot-springmvc-mybatis" />
         <module name="spring-boot-static-fileupload" />
         <module name="spring-boot-static-resource2" />
         <module name="spring-boot-static-resources1" />
+        <module name="spring-boot-text" />
+        <module name="spring-boot-validate" />
         <module name="spring-boot-view-freemarker" />
         <module name="spring-boot-view-jsp" />
         <module name="spring-boot-view-thymeleaf" />
+        <module name="srping-boot-jpa" />
+        <module name="swagger-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="redis-cache" target="1.8" />
+      <module name="spring-boot-config" target="1.8" />
+      <module name="spring-boot-devtools" target="1.8" />
+      <module name="spring-boot-devtools2" target="1.8" />
+      <module name="spring-boot-ehcache" target="1.8" />
+      <module name="spring-boot-exception1" target="1.8" />
+      <module name="spring-boot-exception2" target="1.8" />
+      <module name="spring-boot-exception3" target="1.8" />
+      <module name="spring-boot-exception4" target="1.8" />
       <module name="spring-boot-filter" target="1.8" />
       <module name="spring-boot-hello" target="1.8" />
       <module name="spring-boot-listener" target="1.8" />
+      <module name="spring-boot-redis" target="1.8" />
+      <module name="spring-boot-springloader" target="1.8" />
       <module name="spring-boot-springmvc-mybatis" target="1.8" />
       <module name="spring-boot-static-fileupload" target="1.8" />
       <module name="spring-boot-static-resource2" target="1.8" />
       <module name="spring-boot-static-resources1" target="1.8" />
+      <module name="spring-boot-text" target="1.8" />
+      <module name="spring-boot-validate" target="1.8" />
       <module name="spring-boot-view-freemarker" target="1.8" />
       <module name="spring-boot-view-jsp" target="1.8" />
       <module name="spring-boot-view-thymeleaf" target="1.8" />
+      <module name="srping-boot-jpa" target="1.8" />
+      <module name="swagger-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="redis-cache" options="-parameters" />
+      <module name="spring-boot-config" options="-parameters" />
+      <module name="spring-boot-devtools" options="-parameters" />
+      <module name="spring-boot-devtools2" options="-parameters" />
+      <module name="spring-boot-ehcache" options="-parameters" />
+      <module name="spring-boot-exception1" options="-parameters" />
+      <module name="spring-boot-exception2" options="-parameters" />
+      <module name="spring-boot-exception3" options="-parameters" />
+      <module name="spring-boot-exception4" options="-parameters" />
       <module name="spring-boot-filter" options="-parameters" />
       <module name="spring-boot-hello" options="-parameters" />
       <module name="spring-boot-listener" options="-parameters" />
+      <module name="spring-boot-redis" options="-parameters" />
+      <module name="spring-boot-springloader" options="-parameters" />
       <module name="spring-boot-springmvc-mybatis" options="-parameters" />
       <module name="spring-boot-static-fileupload" options="-parameters" />
       <module name="spring-boot-static-resource2" options="-parameters" />
       <module name="spring-boot-static-resources1" options="-parameters" />
+      <module name="spring-boot-text" options="-parameters" />
+      <module name="spring-boot-validate" options="-parameters" />
       <module name="spring-boot-view-freemarker" options="-parameters" />
       <module name="spring-boot-view-jsp" options="-parameters" />
       <module name="spring-boot-view-thymeleaf" options="-parameters" />
+      <module name="srping-boot-jpa" options="-parameters" />
+      <module name="swagger-demo" options="-parameters" />
     </option>
   </component>
 </project>
